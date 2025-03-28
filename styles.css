@@ -12,7 +12,7 @@
   --second-bg-color: #808080;
   --text-color:#fbfbfe;
   --second-text-color: #000;
-  --main-color: #001aff;
+  --main-color: #8d042f;
   --height-nav: 3em;
   --padding-container: 3em 0;
   --border-bottom: 4px solid var(--main-color);
@@ -80,7 +80,7 @@ textarea{
 }
 
 .btn:hover{
-  background-color: #001aff;
+  background-color: #810530;
 }
 
 .social-media{
