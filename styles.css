@@ -1,5 +1,5 @@
 /* ------------ GOOGLE FONTS ------------ */
-@import url('fundo.jpeg');
+@import url('fundorosa.jpeg');
 :root{
   --font: 'Poppins', sans-serif;
   --title-font-size: 2.25rem;
@@ -34,7 +34,7 @@ body{
   font-size: var(--normal-font-size);
   color: var(--text-color);
   background-color: var(--bg-color);
-  background: url('bg-desktop.webp');
+  background: url('fundorosa.jpeg');
 }
 
 li{
