@@ -34,7 +34,8 @@ body{
   font-size: var(--normal-font-size);
   color: var(--text-color);
   background-color: var(--bg-color);
-  background-image: url('fundorosa.jpeg') img { opacity: 0.5; };
+  {section
+  background-image: url('fundorosa.jpeg') } img { opacity: 0.5; };
 }
 
 li{
