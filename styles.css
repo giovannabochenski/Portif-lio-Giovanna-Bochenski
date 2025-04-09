@@ -34,10 +34,8 @@ body{
   font-size: var(--normal-font-size);
   color: var(--text-color);
   background-color: var(--bg-color);
-  {section
-  background-image: url('fundorosa.jpeg') } img { opacity: 0.5; };
+  background: url('fundorosa.jpeg');
 }
-
 li{
   list-style-type: none;
 }
