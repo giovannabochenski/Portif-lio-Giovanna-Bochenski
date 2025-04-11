@@ -12,7 +12,8 @@
   --second-bg-color: #808080;
   --text-color:#f1efd9;
   --second-text-color: #000;
-  --main-color: #8d042f;
+  --text-color:#f1efd9;
+  --main-color: #f1efd9;
   --height-nav: 3em;
   --padding-container: 3em 0;
   --border-bottom: 4px solid var(--main-color);
