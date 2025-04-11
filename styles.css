@@ -10,10 +10,10 @@
   --small-font-size: 0.75rem;
   --bg-color: #000;
   --second-bg-color: #808080;
-  --text-color:#f1efd9;
+  --text-color:#f9f7e5;
   --second-text-color: #000;
-  --text-color:#f1efd9;
-  --main-color: #f1efd9;
+  --text-color:#f9f7e5;
+  --main-color:#f9f7e5 ;
   --height-nav: 3em;
   --padding-container: 3em 0;
   --border-bottom: 4px solid var(--main-color);
